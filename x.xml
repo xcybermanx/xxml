@@ -1,0 +1,3122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+<channel id="beINSports1En.qa"><display-name>beIN Sports 1 En QA</display-name><icon src="https://static.epg.best/qa/beINSports1En.qa.png"/></channel>
+
+<channel id="beINSports2En.qa"><display-name>beIN Sports 2 En QA</display-name><icon src="https://static.epg.best/qa/beINSports2En.qa.png"/></channel>
+
+<channel id="beINSports3En.qa"><display-name>beIN Sports 3 En QA</display-name><icon src="https://static.epg.best/qa/beINSports3En.qa.png"/></channel>
+
+<channel id="beINSports4En.qa"><display-name>beIN Sports 4 En QA</display-name><icon src="https://static.epg.best/qa/beINSports4En.qa.png"/></channel>
+
+<channel id="beINSports5En.qa"><display-name>beIN Sports 5 En QA</display-name><icon src="https://static.epg.best/qa/beINSports5En.qa.png"/></channel>
+
+<channel id="beINSports6En.qa"><display-name>beIN Sports 6 En QA</display-name><icon src="https://static.epg.best/qa/beINSports6En.qa.png"/></channel>
+
+<channel id="beINSports7En.qa"><display-name>beIN Sports 7 En QA</display-name><icon src="https://static.epg.best/qa/beINSports7En.qa.png"/></channel>
+
+<channel id="BeinSportsPremium1.qa"><display-name>Bein Sports Premium 1 QA</display-name><icon src="https://static.epg.best/qa/BeinSportsPremium1.qa.png"/></channel>
+
+<channel id="BeinSportsPremium2.qa"><display-name>Bein Sports Premium 2 QA</display-name><icon src="https://static.epg.best/qa/BeinSportsPremium2.qa.png"/></channel>
+
+<channel id="BeinSportsPremium3.qa"><display-name>Bein Sports Premium 3 QA</display-name><icon src="https://static.epg.best/qa/BeinSportsPremium3.qa.png"/></channel>
+<iepg>123854</iepg>
+<programme start="20220419021500 +0200" stop="20220419023000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">What You Missed 2021/2022</title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220419023000 +0200" stop="20220419030000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">EPL World 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.42.</episode-num>
+  <desc/></programme>
+<programme start="20220419030000 +0200" stop="20220419044600 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Manchester City vs Liverpool</title>
+    <sub-title lang="en">Emirates FA Cup 2021/2022. Semi Fianl</sub-title>
+    <category lang="en">FA Cup</category>
+  <desc/></programme>
+<programme start="20220419044600 +0200" stop="20220419063000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Chelsea vs Crystal Palace</title>
+    <sub-title lang="en">Emirates FA Cup 2021/2022. Semi Fianl</sub-title>
+    <category lang="en">FA Cup</category>
+  <desc/></programme>
+<programme start="20220419063000 +0200" stop="20220419070000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">GP Confidential 2022 vs</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  <desc/></programme>
+<programme start="20220419070000 +0200" stop="20220419080000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Ligue 1 Weekly Review</title>
+    <sub-title lang="en">2021/2022. Week 32</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419080000 +0200" stop="20220419104500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">FC Barcelona vs Cádiz CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419104500 +0200" stop="20220419110000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">What You Missed 2021/2022</title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220419110000 +0200" stop="20220419113000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">UEFA Champions League Magazine 2021/2022</title>
+    <sub-title lang="en">MD10 Review</sub-title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.25.</episode-num>
+  <desc/></programme>
+<programme start="20220419113000 +0200" stop="20220419120000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">EPL World 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.42.</episode-num>
+  <desc/></programme>
+<programme start="20220419120000 +0200" stop="20220419123000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">EPL The Big Interview</title>
+    <sub-title lang="en">Ruben Loftus-Cheek EP2</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419123000 +0200" stop="20220419125900 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Best of UCL QF (1st &amp; 2nd LEGs)</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419125900 +0200" stop="20220419132900 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">My World Cup</title>
+    <sub-title lang="en">David Beckham</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419132900 +0200" stop="20220419151700 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Sevilla FC vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419151700 +0200" stop="20220419170400 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">FC Barcelona vs Cádiz CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419170400 +0200" stop="20220419173000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">UEFA Champions League Magazine 2021/2022</title>
+    <sub-title lang="en">MD10 Review</sub-title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.25.</episode-num>
+  <desc/></programme>
+<programme start="20220419173000 +0200" stop="20220419180000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Man City vs Liverpool</title>
+    <sub-title lang="en">English FA Cup 2021/22. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220419180000 +0200" stop="20220419183000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Chelsea vs Crystal Palace</title>
+    <sub-title lang="en">English FA Cup 2021/22. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220419183000 +0200" stop="20220419190000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">PSG vs Marseille</title>
+    <sub-title lang="en">Mini Match. French Ligue 1 2021/22</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220419190000 +0200" stop="20220419193000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Sevilla vs Real Madrid</title>
+    <sub-title lang="en">Mini Match. Spanish La Liga 2021/22</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220419193000 +0200" stop="20220419200000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Desailly, Terry &amp; Zola, World Cup Blues</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419200000 +0200" stop="20220419210000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">EPL Weekly Review 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220419210000 +0200" stop="20220419220000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">La Liga Highlights 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.31.</episode-num>
+  <desc/></programme>
+<programme start="20220419220000 +0200" stop="20220419222700 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220419222700 +0200" stop="20220419224200 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">What You Missed 2021/2022</title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220419224200 +0200" stop="20220419225800 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 2010</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419225800 +0200" stop="20220420023000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Liverpool vs Man Utd</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220420023000 +0200" stop="20220420025000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Do You Know</title>
+    <sub-title lang="en">World Cup 2006</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420025000 +0200" stop="20220420044500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Sevilla FC vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420044500 +0200" stop="20220420063000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">FC Barcelona vs Cádiz CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420063000 +0200" stop="20220420070000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220420070000 +0200" stop="20220420103000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Liverpool vs Man Utd</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220420103000 +0200" stop="20220420104600 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Do You Know</title>
+    <sub-title lang="en">World Cup 2006</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420104600 +0200" stop="20220420110000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 2010</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420110000 +0200" stop="20220420115500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">EPL Weekly Review 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220420115500 +0200" stop="20220420125700 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">La Liga Highlights 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.31.</episode-num>
+  <desc/></programme>
+<programme start="20220420125700 +0200" stop="20220420133000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Desailly, Terry &amp; Zola, World Cup Blues</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420133000 +0200" stop="20220420151500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Liverpool vs Man Utd</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220420151500 +0200" stop="20220420153000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 2010</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420153000 +0200" stop="20220420160000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">EPL World 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.42.</episode-num>
+  <desc/></programme>
+<programme start="20220420160000 +0200" stop="20220420163000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Best of UCL QF (1st &amp; 2nd LEGs)</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420163000 +0200" stop="20220420173000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">EPL Weekly Review 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220420173000 +0200" stop="20220420191500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">FC Barcelona vs Cádiz CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420191500 +0200" stop="20220420210000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Liverpool vs Man Utd</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220420210000 +0200" stop="20220420213000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Best of UCL QF (1st &amp; 2nd LEGs)</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420213000 +0200" stop="20220420220000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">EPL Netbusters 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220420220000 +0200" stop="20220420223000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">La Liga World 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.36.</episode-num>
+  <desc/></programme>
+<programme start="20220420223000 +0200" stop="20220420224400 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 2010</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420224400 +0200" stop="20220420230000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Do You Know</title>
+    <sub-title lang="en">World Cup 2006</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420230000 +0200" stop="20220421023000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Manchester City vs Brighton</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421023000 +0200" stop="20220421030000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">On the Road 2022 .. The wonderful trip start from here</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421030000 +0200" stop="20220421044500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Chelsea vs Crystal Palace</title>
+    <sub-title lang="en">Emirates FA Cup 2021/2022. Semi Fianl</sub-title>
+    <category lang="en">FA Cup</category>
+  <desc/></programme>
+<programme start="20220421044500 +0200" stop="20220421063000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Liverpool vs Man Utd</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421063000 +0200" stop="20220421070000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">EPL World 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.42.</episode-num>
+  <desc/></programme>
+<programme start="20220421070000 +0200" stop="20220421103000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Manchester City vs Brighton</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421103000 +0200" stop="20220421110000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">UEFA Champions League Magazine 2021/2022</title>
+    <sub-title lang="en">MD10 Review</sub-title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.25.</episode-num>
+  <desc/></programme>
+<programme start="20220421110000 +0200" stop="20220421113000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220421113000 +0200" stop="20220421120000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Desailly, Terry &amp; Zola, World Cup Blues</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421120000 +0200" stop="20220421123000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">My World Cup</title>
+    <sub-title lang="en">David Beckham</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421123000 +0200" stop="20220421130000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">EPL World 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.42.</episode-num>
+  <desc/></programme>
+<programme start="20220421130000 +0200" stop="20220421133000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">La Liga World 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.36.</episode-num>
+  <desc/></programme>
+<programme start="20220421133000 +0200" stop="20220421151500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Atlético de Madrid vs Granada CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421151500 +0200" stop="20220421170000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">CA Osasuna vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421170000 +0200" stop="20220421173000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Desailly, Terry &amp; Zola, World Cup Blues</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421173000 +0200" stop="20220421191500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Liverpool vs Man Utd</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421191500 +0200" stop="20220421210000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Manchester City vs Brighton</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421210000 +0200" stop="20220421220000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Conmebol Sudamericana 2022 Magazine</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421220000 +0200" stop="20220421223000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Fast Zone 2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421223000 +0200" stop="20220421230000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">FA Cup Review R7 2021/22 SF</title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220421230000 +0200" stop="20220421233000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Welcome to Qatar</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  <desc/></programme>
+<programme start="20220421233000 +0200" stop="20220421234500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 2010</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421234500 +0200" stop="20220422000000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">What You Missed 2021/2022</title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220422000000 +0200" stop="20220422030000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Real Sociedad vs FC Barcelona</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220422030000 +0200" stop="20220422031500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 2010</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422031500 +0200" stop="20220422033000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">What You Missed 2021/2022</title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220422033000 +0200" stop="20220422051500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Liverpool vs Man Utd</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220422051500 +0200" stop="20220422070000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Chelsea vs Arsenal</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 25</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220422070000 +0200" stop="20220422073000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Desailly, Terry &amp; Zola, World Cup Blues</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422073000 +0200" stop="20220422103000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Real Sociedad vs FC Barcelona</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220422103000 +0200" stop="20220422110000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Fast Zone 2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422110000 +0200" stop="20220422113000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">FA Cup Review R7 2021/22 SF</title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220422113000 +0200" stop="20220422120000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Welcome to Qatar</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  <desc/></programme>
+<programme start="20220422120000 +0200" stop="20220422121500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 2010</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422121500 +0200" stop="20220422123000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">What You Missed 2021/2022</title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220422123000 +0200" stop="20220422130000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220422130000 +0200" stop="20220422133000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">UEFA Champions League Magazine 2021/2022</title>
+    <sub-title lang="en">MD10 Review</sub-title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.25.</episode-num>
+  <desc/></programme>
+<programme start="20220422133000 +0200" stop="20220422151500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">CA Osasuna vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220422151500 +0200" stop="20220422170000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Real Sociedad vs FC Barcelona</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220422170000 +0200" stop="20220422173000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Welcome to Qatar</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  <desc/></programme>
+<programme start="20220422173000 +0200" stop="20220422180000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Best of UCL QF (1st &amp; 2nd LEGs)</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422180000 +0200" stop="20220422183000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">My World Cup</title>
+    <sub-title lang="en">David Beckham</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422183000 +0200" stop="20220422201500 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Everton vs Leicester</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 18</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220422201500 +0200" stop="20220422220000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Chelsea vs Arsenal</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 25</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220422220000 +0200" stop="20220422223000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Desailly, Terry &amp; Zola, World Cup Blues</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422223000 +0200" stop="20220422233000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Conmebol Sudamericana 2022 Magazine</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422233000 +0200" stop="20220423000000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">The World in Qatar</title>
+    <sub-title lang="en">Brazil, Spain, Argentina and Iran</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220423000000 +0200" stop="20220423003000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">LaLiga Nation 2021/2022</title>
+    <sub-title lang="en">Netherlands</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220423003000 +0200" stop="20220423010000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Zlatan Ibrahimovoc and Mattia Binotto</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220423010000 +0200" stop="20220423013000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">Welcome to Qatar</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  <desc/></programme>
+<programme start="20220423013000 +0200" stop="20220423020000 +0200" channel="BeinSportsPremium1.qa">
+    <title lang="en">FA Cup Review R7 2021/22 SF</title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220419020000 +0200" stop="20220419023000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Gary Neville's Soccerbox</title>
+    <sub-title lang="en">John Barnes</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419023000 +0200" stop="20220419041500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Manchester United vs Norwich City</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220419041500 +0200" stop="20220419044500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">My World Cup</title>
+    <sub-title lang="en">David Beckham</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419044500 +0200" stop="20220419053000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Desailly, Terry &amp; Zola, World Cup Blues</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419053000 +0200" stop="20220419081500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Utah Jazz vs Dallas Mavericks</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220419081500 +0200" stop="20220419100000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Tottenham vs Brighton</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220419100000 +0200" stop="20220419103000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Gary Neville's Soccerbox</title>
+    <sub-title lang="en">John Barnes</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419103000 +0200" stop="20220419121500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Watford vs Brentford</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220419121500 +0200" stop="20220419140000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Manchester United vs Norwich City</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220419140000 +0200" stop="20220419143000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">EPL Legends</title>
+    <sub-title lang="en">Ruud Van Nistelroy</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419143000 +0200" stop="20220419161500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Southampton vs Arsenal</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220419161500 +0200" stop="20220419180000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">West Ham vs Burnley</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220419180000 +0200" stop="20220419183000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">EPL World 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.42.</episode-num>
+  <desc/></programme>
+<programme start="20220419183000 +0200" stop="20220419201400 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Manchester City vs Liverpool</title>
+    <sub-title lang="en">Emirates FA Cup 2021/2022. Semi Fianl</sub-title>
+    <category lang="en">FA Cup</category>
+  <desc/></programme>
+<programme start="20220419201400 +0200" stop="20220419215800 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Chelsea vs Crystal Palace</title>
+    <sub-title lang="en">Emirates FA Cup 2021/2022. Semi Fianl</sub-title>
+    <category lang="en">FA Cup</category>
+  <desc/></programme>
+<programme start="20220419215800 +0200" stop="20220419222500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Best of UCL QF (1st &amp; 2nd LEGs)</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419222500 +0200" stop="20220420001000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Wigan Athletic vs Cambridge Utd</title>
+    <sub-title lang="en">English Football League 1 2022 Week 43</sub-title>
+    <category lang="en">English League - League One</category>
+  <desc/></programme>
+<programme start="20220420001000 +0200" stop="20220420020500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">MK Dons vs Sheffield Wednesday</title>
+    <sub-title lang="en">English Football League 1 2022 Week 43</sub-title>
+    <category lang="en">English League - League One</category>
+  <desc/></programme>
+<programme start="20220420020500 +0200" stop="20220420023200 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Gary Neville's Soccerbox</title>
+    <sub-title lang="en">Ryan Giggs</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420023200 +0200" stop="20220420041500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Southampton vs Arsenal</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220420041500 +0200" stop="20220420060000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Tottenham vs Brighton</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220420060000 +0200" stop="20220420063000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">My World Cup</title>
+    <sub-title lang="en">David Beckham</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420063000 +0200" stop="20220420081500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Watford vs Brentford</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220420081500 +0200" stop="20220420100000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Manchester United vs Norwich City</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220420100000 +0200" stop="20220420103000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Gary Neville's Soccerbox</title>
+    <sub-title lang="en">Ryan Giggs</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420103000 +0200" stop="20220420121500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Wigan Athletic vs Cambridge Utd</title>
+    <sub-title lang="en">English Football League 1 2022 Week 43</sub-title>
+    <category lang="en">English League - League One</category>
+  <desc/></programme>
+<programme start="20220420121500 +0200" stop="20220420140000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">West Ham vs Burnley</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220420140000 +0200" stop="20220420143000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">EPL Legends</title>
+    <sub-title lang="en">Andy Cole</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420143000 +0200" stop="20220420161500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Manchester City vs Liverpool</title>
+    <sub-title lang="en">Emirates FA Cup 2021/2022. Semi Fianl</sub-title>
+    <category lang="en">FA Cup</category>
+  <desc/></programme>
+<programme start="20220420161500 +0200" stop="20220420180000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Chelsea vs Crystal Palace</title>
+    <sub-title lang="en">Emirates FA Cup 2021/2022. Semi Fianl</sub-title>
+    <category lang="en">FA Cup</category>
+  <desc/></programme>
+<programme start="20220420180000 +0200" stop="20220420183000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">UEFA Champions League Magazine 2021/2022</title>
+    <sub-title lang="en">MD10 Review</sub-title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.25.</episode-num>
+  <desc/></programme>
+<programme start="20220420183000 +0200" stop="20220420201500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Southampton vs Arsenal</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220420201500 +0200" stop="20220420220000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Manchester United vs Norwich City</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 33</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220420220000 +0200" stop="20220420221500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 2010</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420221500 +0200" stop="20220420231000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">EPL Weekly Review 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220420231000 +0200" stop="20220420234000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">EPL Legends</title>
+    <sub-title lang="en">Thierry Henry</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420234000 +0200" stop="20220421020000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Chelsea vs Arsenal</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 25</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421020000 +0200" stop="20220421023000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Best of UCL QF (1st &amp; 2nd LEGs)</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421023000 +0200" stop="20220421030000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">EPL World 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.42.</episode-num>
+  <desc/></programme>
+<programme start="20220421030000 +0200" stop="20220421044500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Manchester City vs Liverpool</title>
+    <sub-title lang="en">Emirates FA Cup 2021/2022. Semi Fianl</sub-title>
+    <category lang="en">FA Cup</category>
+  <desc/></programme>
+<programme start="20220421044500 +0200" stop="20220421063000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Chelsea vs Crystal Palace</title>
+    <sub-title lang="en">Emirates FA Cup 2021/2022. Semi Fianl</sub-title>
+    <category lang="en">FA Cup</category>
+  <desc/></programme>
+<programme start="20220421063000 +0200" stop="20220421090000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Chicago Bulls vs Milwaukee Bucks</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220421090000 +0200" stop="20220421100000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">EPL</title>
+    <sub-title lang="en">Goals of the Season 2020-2021</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421100000 +0200" stop="20220421103000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">EPL World 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.42.</episode-num>
+  <desc/></programme>
+<programme start="20220421103000 +0200" stop="20220421121500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Liverpool vs Man Utd</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421121500 +0200" stop="20220421140000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Everton vs Leicester</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 18</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421140000 +0200" stop="20220421143000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">My World Cup</title>
+    <sub-title lang="en">David Beckham</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421143000 +0200" stop="20220421161500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Chelsea vs Arsenal</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 25</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421161500 +0200" stop="20220421180500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Manchester City vs Brighton</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421180500 +0200" stop="20220421183000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Best of UCL QF (1st &amp; 2nd LEGs)</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421183000 +0200" stop="20220421201500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Newcastle vs Crystal Palace</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421201500 +0200" stop="20220421220000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Chelsea vs Arsenal</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 25</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421220000 +0200" stop="20220421223000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">EPL The Big Interview</title>
+    <sub-title lang="en">Ruben Loftus-Cheek EP2</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421223000 +0200" stop="20220421230000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">EPL Netbusters 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220421230000 +0200" stop="20220421234500 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">EPL World 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.42.</episode-num>
+  <desc/></programme>
+<programme start="20220421234500 +0200" stop="20220422020000 +0200" channel="BeinSportsPremium2.qa">
+    <title lang="en">Burnley vs Southampton</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220419020000 +0200" stop="20220419040000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">New Orleans Pelicans vs Los Angeles Clippers</title>
+    <sub-title lang="en">NBA Play-In Tournament 2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220419040000 +0200" stop="20220419043000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">NBA ACTION</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419043000 +0200" stop="20220419065500 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Toronto Raptors vs Philadelphia 76ers</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220419065500 +0200" stop="20220419093000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Minnesota Timberwolves vs Memphis Grizzlies</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220419093000 +0200" stop="20220419100000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">NBA ACTION</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419100000 +0200" stop="20220419120000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Utah Jazz vs Dallas Mavericks</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220419120000 +0200" stop="20220419140000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Brooklyn Nets vs Boston Celtics</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220419140000 +0200" stop="20220419160000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Toronto Raptors vs Philadelphia 76ers</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220419160000 +0200" stop="20220419174300 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">PSG vs Salzburg</title>
+    <sub-title lang="en">UEFA Youth League Quarter Final</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220419174300 +0200" stop="20220419193000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Borussia Dortmund vs Atlitico Madrid</title>
+    <sub-title lang="en">UEFA Youth League Quarter Final</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220419193000 +0200" stop="20220419213000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Utah Jazz vs Dallas Mavericks</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220419213000 +0200" stop="20220419233000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Toronto Raptors vs Philadelphia 76ers</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220419233000 +0200" stop="20220420003000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">EPL Weekly Review 2021/2022</title>
+    <category lang="en">English Premier League</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220420003000 +0200" stop="20220420013000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">La Liga Highlights 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.31.</episode-num>
+  <desc/></programme>
+<programme start="20220420013000 +0200" stop="20220420020000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220420020000 +0200" stop="20220420042500 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Francisco Navarro (ESP) Martín Di Nenno (ARG) vs Juan Lebron (ESP) Alejandro Galan (ESP)</title>
+    <sub-title lang="en">Final. Oo</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420042500 +0200" stop="20220420065500 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Miami Heat vs Atlanta Hawks</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220420065500 +0200" stop="20220420073000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">NBA ACTION</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420073000 +0200" stop="20220420093000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Brooklyn Nets vs Boston Celtics</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220420093000 +0200" stop="20220420113800 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Minnesota Timberwolves vs Memphis Grizzlies</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220420113800 +0200" stop="20220420121000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">NBA Legends</title>
+    <sub-title lang="en">Vince Carter</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220420121000 +0200" stop="20220420140000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Toronto Raptors vs Philadelphia 76ers</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220420140000 +0200" stop="20220420155000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Utah Jazz vs Dallas Mavericks</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220420155000 +0200" stop="20220420174000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Borussia Dortmund vs Atlitico Madrid</title>
+    <sub-title lang="en">UEFA Youth League Quarter Final</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220420174000 +0200" stop="20220420193000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Juventus vs Liverpool</title>
+    <sub-title lang="en">UEFA Youth League Quarter Final</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220420193000 +0200" stop="20220420213000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Miami Heat vs Atlanta Hawks</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220420213000 +0200" stop="20220420234000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Minnesota Timberwolves vs Memphis Grizzlies</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220420234000 +0200" stop="20220421020000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Newcastle vs Crystal Palace</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421020000 +0200" stop="20220421040500 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Arena Games Triathlon</title>
+    <sub-title lang="en">Munich 2022</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421040500 +0200" stop="20220421043000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">NBA ACTION</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421043000 +0200" stop="20220421050000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">NBA Legends</title>
+    <sub-title lang="en">Dirk Nowitzki. NBA Legends beIN Originals AR</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220421050000 +0200" stop="20220421073000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Philadelphia 76ers vs Toronto Raptors</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220421073000 +0200" stop="20220421080000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Welcome to Qatar</title>
+    <sub-title lang="en">Best Of</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421080000 +0200" stop="20220421100000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Newcastle vs Crystal Palace</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421100000 +0200" stop="20220421115500 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Miami Heat vs Atlanta Hawks</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220421115500 +0200" stop="20220421140000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Philadelphia 76ers vs Toronto Raptors</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220421140000 +0200" stop="20220421160000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Chicago Bulls vs Milwaukee Bucks</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220421160000 +0200" stop="20220421174500 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Newcastle vs Crystal Palace</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 30</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421174500 +0200" stop="20220421193000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Everton vs Leicester</title>
+    <sub-title lang="en">English Premier League 2021/2022 Week 18</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421193000 +0200" stop="20220421213000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Philadelphia 76ers vs Toronto Raptors</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220421213000 +0200" stop="20220421233000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Chicago Bulls vs Milwaukee Bucks</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220421233000 +0200" stop="20220422000000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.32.</episode-num>
+  <desc/></programme>
+<programme start="20220422000000 +0200" stop="20220422003000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Fast Zone 2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422003000 +0200" stop="20220422010000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">FA Cup Review R7 2021/22 SF</title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220422010000 +0200" stop="20220422012500 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Welcome to Qatar</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  <desc/></programme>
+<programme start="20220422012500 +0200" stop="20220422020000 +0200" channel="BeinSportsPremium3.qa">
+    <title lang="en">Desailly, Terry &amp; Zola, World Cup Blues</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419020000 +0200" stop="20220419023700 +0200" channel="beINSports1En.qa">
+    <title lang="en">ALL REAL MADRID GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419023700 +0200" stop="20220419030700 +0200" channel="beINSports1En.qa">
+    <title lang="en">La Liga Chronicles 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.26.</episode-num>
+  <desc/></programme>
+<programme start="20220419030700 +0200" stop="20220419045100 +0200" channel="beINSports1En.qa">
+    <title lang="en">Valencia CF vs CA Osasuna</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419045100 +0200" stop="20220419063200 +0200" channel="beINSports1En.qa">
+    <title lang="en">Getafe CF vs Villarreal CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419063200 +0200" stop="20220419070000 +0200" channel="beINSports1En.qa">
+    <title lang="en">LIGA BEST GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419070000 +0200" stop="20220419084300 +0200" channel="beINSports1En.qa">
+    <title lang="en">Elche CF vs RCD Mallorca</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419084300 +0200" stop="20220419103100 +0200" channel="beINSports1En.qa">
+    <title lang="en">Deportivo Alavés vs Rayo Vallecano</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419103100 +0200" stop="20220419110000 +0200" channel="beINSports1En.qa">
+    <title lang="en">La Liga World 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.35.</episode-num>
+  <desc/></programme>
+<programme start="20220419110000 +0200" stop="20220419124500 +0200" channel="beINSports1En.qa">
+    <title lang="en">Real Sociedad vs Real Betis</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419124500 +0200" stop="20220419143200 +0200" channel="beINSports1En.qa">
+    <title lang="en">FC Barcelona vs Cádiz CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419143200 +0200" stop="20220419150000 +0200" channel="beINSports1En.qa">
+    <title lang="en">Atletico Madrid vs Espanyol</title>
+    <sub-title lang="en">Mini Match. Spanish La Liga 2021/22</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220419150000 +0200" stop="20220419153000 +0200" channel="beINSports1En.qa">
+    <title lang="en">Sevilla vs Real Madrid</title>
+    <sub-title lang="en">Mini Match. Spanish La Liga 2021/22</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220419153000 +0200" stop="20220419171700 +0200" channel="beINSports1En.qa">
+    <title lang="en">Granada CF vs Levante UD</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419171700 +0200" stop="20220419191100 +0200" channel="beINSports1En.qa">
+    <title lang="en">Atlético de Madrid vs RCD Espanyol</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419191100 +0200" stop="20220419194000 +0200" channel="beINSports1En.qa">
+    <title lang="en">La Liga Chronicles 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.26.</episode-num>
+  <desc/></programme>
+<programme start="20220419194000 +0200" stop="20220419212500 +0200" channel="beINSports1En.qa">
+    <title lang="en">FC Barcelona vs Cádiz CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419212500 +0200" stop="20220419215500 +0200" channel="beINSports1En.qa">
+    <title lang="en">La Liga World 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.35.</episode-num>
+  <desc/></programme>
+<programme start="20220419215500 +0200" stop="20220419235700 +0200" channel="beINSports1En.qa">
+    <title lang="en">RCD Mallorca vs Deportivo Alavés</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419235700 +0200" stop="20220420002500 +0200" channel="beINSports1En.qa">
+    <title lang="en">LIGA BEST GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420002500 +0200" stop="20220420023000 +0200" channel="beINSports1En.qa">
+    <title lang="en">Villarreal CF vs Valencia CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420023000 +0200" stop="20220420025800 +0200" channel="beINSports1En.qa">
+    <title lang="en">LaLiga Fans 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  <desc/></programme>
+<programme start="20220420025800 +0200" stop="20220420044000 +0200" channel="beINSports1En.qa">
+    <title lang="en">Athletic Bilbao vs RC Celta de Vigo</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420044000 +0200" stop="20220420062900 +0200" channel="beINSports1En.qa">
+    <title lang="en">Sevilla FC vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420062900 +0200" stop="20220420071000 +0200" channel="beINSports1En.qa">
+    <title lang="en">ALL BARCELONA GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420071000 +0200" stop="20220420085500 +0200" channel="beINSports1En.qa">
+    <title lang="en">RCD Mallorca vs Deportivo Alavés</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420085500 +0200" stop="20220420104000 +0200" channel="beINSports1En.qa">
+    <title lang="en">Villarreal CF vs Valencia CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420104000 +0200" stop="20220420110300 +0200" channel="beINSports1En.qa">
+    <title lang="en">LIGA BEST GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420110300 +0200" stop="20220420124700 +0200" channel="beINSports1En.qa">
+    <title lang="en">FC Barcelona vs Cádiz CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420124700 +0200" stop="20220420143500 +0200" channel="beINSports1En.qa">
+    <title lang="en">Sevilla FC vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 32</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420143500 +0200" stop="20220420153000 +0200" channel="beINSports1En.qa">
+    <title lang="en">La Liga Highlights 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.31.</episode-num>
+  <desc/></programme>
+<programme start="20220420153000 +0200" stop="20220420171500 +0200" channel="beINSports1En.qa">
+    <title lang="en">RCD Mallorca vs Deportivo Alavés</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420171500 +0200" stop="20220420185800 +0200" channel="beINSports1En.qa">
+    <title lang="en">Villarreal CF vs Valencia CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420185800 +0200" stop="20220420192700 +0200" channel="beINSports1En.qa">
+    <title lang="en">LaLiga Fans 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+  <desc/></programme>
+<programme start="20220420192700 +0200" stop="20220420212300 +0200" channel="beINSports1En.qa">
+    <title lang="en">Real Betis vs Elche CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420212300 +0200" stop="20220420215500 +0200" channel="beINSports1En.qa">
+    <title lang="en">La Liga Chronicles 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.26.</episode-num>
+  <desc/></programme>
+<programme start="20220420215500 +0200" stop="20220420235500 +0200" channel="beINSports1En.qa">
+    <title lang="en">Atlético de Madrid vs Granada CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420235500 +0200" stop="20220421002500 +0200" channel="beINSports1En.qa">
+    <title lang="en">LaLiga Nation 2021/2022</title>
+    <sub-title lang="en">United Kingdom</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421002500 +0200" stop="20220421023000 +0200" channel="beINSports1En.qa">
+    <title lang="en">CA Osasuna vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421023000 +0200" stop="20220421030000 +0200" channel="beINSports1En.qa">
+    <title lang="en">LaLiga Nation 2021/2022</title>
+    <sub-title lang="en">United Kingdom</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421030000 +0200" stop="20220421044500 +0200" channel="beINSports1En.qa">
+    <title lang="en">RCD Mallorca vs Deportivo Alavés</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421044500 +0200" stop="20220421063000 +0200" channel="beINSports1En.qa">
+    <title lang="en">Villarreal CF vs Valencia CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421063000 +0200" stop="20220421070000 +0200" channel="beINSports1En.qa">
+    <title lang="en">La Liga World 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.36.</episode-num>
+  <desc/></programme>
+<programme start="20220421070000 +0200" stop="20220421084500 +0200" channel="beINSports1En.qa">
+    <title lang="en">Atlético de Madrid vs Granada CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421084500 +0200" stop="20220421103000 +0200" channel="beINSports1En.qa">
+    <title lang="en">CA Osasuna vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421103000 +0200" stop="20220421110000 +0200" channel="beINSports1En.qa">
+    <title lang="en">ALL REAL MADRID GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421110000 +0200" stop="20220421124500 +0200" channel="beINSports1En.qa">
+    <title lang="en">RCD Mallorca vs Deportivo Alavés</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421124500 +0200" stop="20220421143000 +0200" channel="beINSports1En.qa">
+    <title lang="en">Villarreal CF vs Valencia CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421143000 +0200" stop="20220421150000 +0200" channel="beINSports1En.qa">
+    <title lang="en">La Liga World 2021/2022</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="xmltv_ns">.36.</episode-num>
+  <desc/></programme>
+<programme start="20220421150000 +0200" stop="20220421153000 +0200" channel="beINSports1En.qa">
+    <title lang="en">LIGA BEST GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421153000 +0200" stop="20220421171500 +0200" channel="beINSports1En.qa">
+    <title lang="en">Atlético de Madrid vs Granada CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421171500 +0200" stop="20220421190000 +0200" channel="beINSports1En.qa">
+    <title lang="en">CA Osasuna vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421190000 +0200" stop="20220421193000 +0200" channel="beINSports1En.qa">
+    <title lang="en">LaLiga Nation 2021/2022</title>
+    <sub-title lang="en">United Kingdom</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421193000 +0200" stop="20220421195500 +0200" channel="beINSports1En.qa">
+    <title lang="en">LIGA BEST GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421195500 +0200" stop="20220421214000 +0200" channel="beINSports1En.qa">
+    <title lang="en">Villarreal CF vs Valencia CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421214000 +0200" stop="20220421215500 +0200" channel="beINSports1En.qa">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 2010</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421215500 +0200" stop="20220422000000 +0200" channel="beINSports1En.qa">
+    <title lang="en">Levante UD vs Sevilla FC</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220422000000 +0200" stop="20220422002500 +0200" channel="beINSports1En.qa">
+    <title lang="en">LIGA BEST GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422002500 +0200" stop="20220422023000 +0200" channel="beINSports1En.qa">
+    <title lang="en">Real Sociedad vs FC Barcelona</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220419020000 +0200" stop="20220419024400 +0200" channel="beINSports2En.qa">
+    <title lang="en">ALL PSG GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419024400 +0200" stop="20220419030000 +0200" channel="beINSports2En.qa">
+    <title lang="en">ALL LILLE GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419030000 +0200" stop="20220419044500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Metz vs Clermont</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220419044500 +0200" stop="20220419063000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Nice vs Lorient</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220419063000 +0200" stop="20220419070000 +0200" channel="beINSports2En.qa">
+    <title lang="en">ALL LYON GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419070000 +0200" stop="20220419084500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Troyes vs Strasbourg</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220419084500 +0200" stop="20220419102500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Lyon vs Bordeaux</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220419102500 +0200" stop="20220419110000 +0200" channel="beINSports2En.qa">
+    <title lang="en">ALL MARSEILLE GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419110000 +0200" stop="20220419125000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Paris Saint-Germain vs Marseille</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220419125000 +0200" stop="20220419143100 +0200" channel="beINSports2En.qa">
+    <title lang="en">Rennais vs Monaco</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220419143100 +0200" stop="20220419153000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Ligue 1 Weekly Review</title>
+    <sub-title lang="en">2021/2022. Week 32</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419153000 +0200" stop="20220419171500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Montpellier vs Reims</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220419171500 +0200" stop="20220419190000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Nantes vs Angers</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220419190000 +0200" stop="20220419193000 +0200" channel="beINSports2En.qa">
+    <title lang="en">PSG vs Marseille</title>
+    <sub-title lang="en">Mini Match. French Ligue 1 2021/22</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220419193000 +0200" stop="20220419211500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Saint Etienne vs Brest</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220419211500 +0200" stop="20220419225800 +0200" channel="beINSports2En.qa">
+    <title lang="en">Lille vs Lens</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220419225800 +0200" stop="20220419235500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Ligue 1 Weekly Review</title>
+    <sub-title lang="en">2021/2022. Week 32</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419235500 +0200" stop="20220420020000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Real Betis vs Elche CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420020000 +0200" stop="20220420023000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Lille vs Lens</title>
+    <sub-title lang="en">Mini Match. French Ligue 1 2021/22</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220420023000 +0200" stop="20220420030000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Sports Clinic</title>
+    <sub-title lang="en">Heart injuries, preventions and cures</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420030000 +0200" stop="20220420044800 +0200" channel="beINSports2En.qa">
+    <title lang="en">Paris Saint-Germain vs Marseille</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220420044800 +0200" stop="20220420063000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Rennais vs Monaco</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220420063000 +0200" stop="20220420073000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Ligue 1 Weekly Review</title>
+    <sub-title lang="en">2021/2022. Week 32</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420073000 +0200" stop="20220420091500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Metz vs Clermont</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220420091500 +0200" stop="20220420110000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Nice vs Lorient</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220420110000 +0200" stop="20220420113000 +0200" channel="beINSports2En.qa">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.31.</episode-num>
+  <desc/></programme>
+<programme start="20220420113000 +0200" stop="20220420131700 +0200" channel="beINSports2En.qa">
+    <title lang="en">Real Betis vs Elche CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220420131700 +0200" stop="20220420150000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Troyes vs Strasbourg</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220420150000 +0200" stop="20220420160000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Ligue 1 Weekly Review</title>
+    <sub-title lang="en">2021/2022. Week 32</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420160000 +0200" stop="20220420174500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Saint Etienne vs Brest</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220420174500 +0200" stop="20220420192800 +0200" channel="beINSports2En.qa">
+    <title lang="en">Lille vs Lens</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 32</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220420192800 +0200" stop="20220420200100 +0200" channel="beINSports2En.qa">
+    <title lang="en">ALL MARSEILLE GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420200100 +0200" stop="20220420203000 +0200" channel="beINSports2En.qa">
+    <title lang="en">FIFA World Cup Qatar 2022™ Monthly Magazine Show</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420203000 +0200" stop="20220420210000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Sports Clinic</title>
+    <sub-title lang="en">Heart injuries, preventions and cures</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420210000 +0200" stop="20220420213000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Lyon vs Bordeaux</title>
+    <sub-title lang="en">Mini Match. French Ligue 1 2021/22</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220420213000 +0200" stop="20220420220000 +0200" channel="beINSports2En.qa">
+    <title lang="en">PSG vs Marseille</title>
+    <sub-title lang="en">Mini Match. French Ligue 1 2021/22</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220420220000 +0200" stop="20220420221500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Ronaldinho, a legend in Paris</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420221500 +0200" stop="20220420230000 +0200" channel="beINSports2En.qa">
+    <title lang="en">ALL PSG GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420230000 +0200" stop="20220420233000 +0200" channel="beINSports2En.qa">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.31.</episode-num>
+  <desc/></programme>
+<programme start="20220420233000 +0200" stop="20220421023000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Angers vs Paris Saint-Germain</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421023000 +0200" stop="20220421033000 +0200" channel="beINSports2En.qa">
+    <title lang="en">beIN Russia</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421033000 +0200" stop="20220421043000 +0200" channel="beINSports2En.qa">
+    <title lang="en">UEFA Nations League 2020/21 Review</title>
+    <sub-title lang="en">Finals</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421043000 +0200" stop="20220421073000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Angers vs Paris Saint-Germain</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421073000 +0200" stop="20220421091500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Troyes vs Clermont</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421091500 +0200" stop="20220421110000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Marseille vs Nantes</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421110000 +0200" stop="20220421111500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Ronaldinho, a legend in Paris</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421111500 +0200" stop="20220421113000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Ligue 1</title>
+    <sub-title lang="en">Talking Talent with Benoit Badiashile</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421113000 +0200" stop="20220421131500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Lorient vs Metz</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421131500 +0200" stop="20220421150000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Reims vs Lille</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421150000 +0200" stop="20220421153000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Nantes vs Monaco</title>
+    <sub-title lang="en">Semi Final French Cup 2021/22. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220421153000 +0200" stop="20220421160000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Nice vs Versailles</title>
+    <sub-title lang="en">Semi Final French Cup 2021/22. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220421160000 +0200" stop="20220421174500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Troyes vs Clermont</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421174500 +0200" stop="20220421193000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Strasbourg vs Rennais</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421193000 +0200" stop="20220421200000 +0200" channel="beINSports2En.qa">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.31.</episode-num>
+  <desc/></programme>
+<programme start="20220421200000 +0200" stop="20220421203000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Monaco vs Nice</title>
+    <sub-title lang="en">Mini Match. French Ligue 1 2021/22</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220421203000 +0200" stop="20220421210000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Angers vs PSG</title>
+    <sub-title lang="en">Mini Match. French Ligue 1 2021/22</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220421210000 +0200" stop="20220421213000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Marseille vs Nantes</title>
+    <sub-title lang="en">Mini Match. French Ligue 1 2021/22</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220421213000 +0200" stop="20220421215500 +0200" channel="beINSports2En.qa">
+    <title lang="en">LIGA BEST GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421215500 +0200" stop="20220422000000 +0200" channel="beINSports2En.qa">
+    <title lang="en">RCD Espanyol vs Rayo Vallecano</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220422000000 +0200" stop="20220422014500 +0200" channel="beINSports2En.qa">
+    <title lang="en">Angers vs Paris Saint-Germain</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220422014500 +0200" stop="20220422020000 +0200" channel="beINSports2En.qa">
+    <title lang="en">Ligue 1</title>
+    <sub-title lang="en">Talking Talent with Benoit Badiashile</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419020000 +0200" stop="20220419035500 +0200" channel="beINSports3En.qa">
+    <title lang="en">ES Setif (ALG) vs Esperance Tunis (TUN)</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220419035500 +0200" stop="20220419055200 +0200" channel="beINSports3En.qa">
+    <title lang="en">Belouizdad (ALG) vs WAC ( MAR )</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220419055200 +0200" stop="20220419062500 +0200" channel="beINSports3En.qa">
+    <title lang="en">AFCON 2021 Review</title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220419062500 +0200" stop="20220419082000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Petro De Luanda (ANG) vs MemelodI Sundowns (RSA)</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220419082000 +0200" stop="20220419101700 +0200" channel="beINSports3En.qa">
+    <title lang="en">AL Ahly ( EGY ) vs Raja Club Athletic (MAR)</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220419101700 +0200" stop="20220419120200 +0200" channel="beINSports3En.qa">
+    <title lang="en">Simba (TAN) V Orlando Pirates (RSA)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220419120200 +0200" stop="20220419140000 +0200" channel="beINSports3En.qa">
+    <title lang="en">AL Ittihad (LYB) V AL Ahly Tripoli (LYB)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220419140000 +0200" stop="20220419143000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Belouizdad vs Wydad</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220419143000 +0200" stop="20220419150000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Al Ahly vs Raja Casablanca</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220419150000 +0200" stop="20220419153000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Setif vs Esperance Tunis</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220419153000 +0200" stop="20220419160000 +0200" channel="beINSports3En.qa">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419160000 +0200" stop="20220419174500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Pyramids vs TP Mazembe</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220419174500 +0200" stop="20220419193000 +0200" channel="beINSports3En.qa">
+    <title lang="en">AL Masry (EGY) V RS Berkane (MAR)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220419193000 +0200" stop="20220419202000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Afcon Cup 2022</title>
+    <sub-title lang="en">ALL Goals</sub-title>
+    <category lang="en">Afcon Cup</category>
+  <desc/></programme>
+<programme start="20220419202000 +0200" stop="20220419221200 +0200" channel="beINSports3En.qa">
+    <title lang="en">ES Setif (ALG) vs Esperance Tunis (TUN)</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220419221200 +0200" stop="20220420000600 +0200" channel="beINSports3En.qa">
+    <title lang="en">Belouizdad (ALG) vs WAC ( MAR )</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220420000600 +0200" stop="20220420010300 +0200" channel="beINSports3En.qa">
+    <title lang="en">Copa America</title>
+    <sub-title lang="en">Best Goals 2021</sub-title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220420010300 +0200" stop="20220420020000 +0200" channel="beINSports3En.qa">
+    <title lang="en">FIFA Arab Cup Qatar 2021 Summary</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420020000 +0200" stop="20220420023000 +0200" channel="beINSports3En.qa">
+    <title lang="en">The Best Football Funnies 2020</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  <desc/></programme>
+<programme start="20220420023000 +0200" stop="20220420043000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Petro De Luanda (ANG) vs MemelodI Sundowns (RSA)</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220420043000 +0200" stop="20220420062500 +0200" channel="beINSports3En.qa">
+    <title lang="en">AL Ahly ( EGY ) vs Raja Club Athletic (MAR)</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220420062500 +0200" stop="20220420073000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Copa America</title>
+    <sub-title lang="en">Best Goals 2021</sub-title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220420073000 +0200" stop="20220420091500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Simba (TAN) V Orlando Pirates (RSA)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220420091500 +0200" stop="20220420110500 +0200" channel="beINSports3En.qa">
+    <title lang="en">AL Ittihad (LYB) V AL Ahly Tripoli (LYB)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220420110500 +0200" stop="20220420125000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Pyramids vs TP Mazembe</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220420125000 +0200" stop="20220420143500 +0200" channel="beINSports3En.qa">
+    <title lang="en">AL Masry (EGY) V RS Berkane (MAR)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220420143500 +0200" stop="20220420150500 +0200" channel="beINSports3En.qa">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420150500 +0200" stop="20220420170000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Deportivo La Guaira (VEN) vs Ceará (BRA)</title>
+    <sub-title lang="en">Copa Sudamericana 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Sudamericana</category>
+  <desc/></programme>
+<programme start="20220420170000 +0200" stop="20220420184500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Independiente (ARG) vs General Caballero JLM (PAR)</title>
+    <sub-title lang="en">Copa Sudamericana 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Sudamericana</category>
+  <desc/></programme>
+<programme start="20220420184500 +0200" stop="20220420191500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Belouizdad vs Wydad</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220420191500 +0200" stop="20220420211500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Atletico Mineiro (BRA) vs América-MG (BRA)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220420211500 +0200" stop="20220420213000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Ligue 1</title>
+    <sub-title lang="en">Talking Talent with Benoit Badiashile</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420213000 +0200" stop="20220420215500 +0200" channel="beINSports3En.qa">
+    <title lang="en">ALL LILLE GOALS WINTER 2021/2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420215500 +0200" stop="20220420235700 +0200" channel="beINSports3En.qa">
+    <title lang="en">Reims vs Lille</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220420235700 +0200" stop="20220421020000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Marseille vs Nantes</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421020000 +0200" stop="20220421030000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Afcon Cup 2022</title>
+    <sub-title lang="en">ALL Goals</sub-title>
+    <category lang="en">Afcon Cup</category>
+  <desc/></programme>
+<programme start="20220421030000 +0200" stop="20220421044500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Sao Paulo (BRA) vs Everton (CHI)</title>
+    <sub-title lang="en">Copa Sudamericana 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Sudamericana</category>
+  <desc/></programme>
+<programme start="20220421044500 +0200" stop="20220421063000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Internacional (BRA) vs Guaireña (PAR)</title>
+    <sub-title lang="en">Copa Sudamericana 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Sudamericana</category>
+  <desc/></programme>
+<programme start="20220421063000 +0200" stop="20220421073000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Archive Documentary Series</title>
+    <sub-title lang="en">UCL Defining Moments</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421073000 +0200" stop="20220421091500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Marseille vs Nantes</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421091500 +0200" stop="20220421110000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Reims vs Lille</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421110000 +0200" stop="20220421113000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Setif vs Esperance Tunis</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220421113000 +0200" stop="20220421131500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Cerro Porteño (PAR) vs Club Atlético Colon (ARG)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220421131500 +0200" stop="20220421150000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Flamengo (BRA) vs Talleres Cordoba (ARG)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220421150000 +0200" stop="20220421153000 +0200" channel="beINSports3En.qa">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421153000 +0200" stop="20220421171500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Nacional (URU) vs Estudientes (ARG)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220421171500 +0200" stop="20220421190000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Atletico Mineiro (BRA) vs América-MG (BRA)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220421190000 +0200" stop="20220421203000 +0200" channel="beINSports3En.qa">
+    <title lang="en">EPL</title>
+    <sub-title lang="en">Kenny Dalglish</sub-title>
+    <category lang="en">English Premier League</category>
+  <desc/></programme>
+<programme start="20220421203000 +0200" stop="20220421221500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Simba (TAN) V Orlando Pirates (RSA)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220421221500 +0200" stop="20220421223000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 2010</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421223000 +0200" stop="20220421225500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Setif vs Esperance Tunis</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220421225500 +0200" stop="20220422010000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Cádiz CF vs Athletic Bilbao</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220422010000 +0200" stop="20220422013000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Petro vs Mamelodi</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220422013000 +0200" stop="20220422020000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Belouizdad vs Wydad</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220422020000 +0200" stop="20220422030000 +0200" channel="beINSports3En.qa">
+    <title lang="en">FIFA Arab Cup Qatar 2021 Summary</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422030000 +0200" stop="20220422044500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Pyramids vs TP Mazembe</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220422044500 +0200" stop="20220422063000 +0200" channel="beINSports3En.qa">
+    <title lang="en">AL Masry (EGY) V RS Berkane (MAR)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220422063000 +0200" stop="20220422070000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Belouizdad vs Wydad</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220422070000 +0200" stop="20220422084500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Petro De Luanda (ANG) vs MemelodI Sundowns (RSA)</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220422084500 +0200" stop="20220422103000 +0200" channel="beINSports3En.qa">
+    <title lang="en">AL Ahly ( EGY ) vs Raja Club Athletic (MAR)</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220422103000 +0200" stop="20220422113000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Archive Documentary Series</title>
+    <sub-title lang="en">UCL Defining Moments</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422113000 +0200" stop="20220422131500 +0200" channel="beINSports3En.qa">
+    <title lang="en">ES Setif (ALG) vs Esperance Tunis (TUN)</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220422131500 +0200" stop="20220422150000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Belouizdad (ALG) vs WAC ( MAR )</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220422150000 +0200" stop="20220422153000 +0200" channel="beINSports3En.qa">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 5</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422153000 +0200" stop="20220422171500 +0200" channel="beINSports3En.qa">
+    <title lang="en">AL Ittihad (LYB) V AL Ahly Tripoli (LYB)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220422171500 +0200" stop="20220422190000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Simba (TAN) V Orlando Pirates (RSA)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220422190000 +0200" stop="20220422203000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Secret of Success</title>
+    <sub-title lang="en">Ahmed Al Bahrani, The Human Artist</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422203000 +0200" stop="20220422210000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Petro vs Mamelodi</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220422210000 +0200" stop="20220422213000 +0200" channel="beINSports3En.qa">
+    <title lang="en">Al Ahly vs Raja Casablanca</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220422213000 +0200" stop="20220422231500 +0200" channel="beINSports3En.qa">
+    <title lang="en">Belouizdad (ALG) vs WAC ( MAR )</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220422231500 +0200" stop="20220423010000 +0200" channel="beINSports3En.qa">
+    <title lang="en">ES Setif (ALG) vs Esperance Tunis (TUN)</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 1. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220423010000 +0200" stop="20220423011500 +0200" channel="beINSports3En.qa">
+    <title lang="en">CAF Champion League 2022</title>
+    <sub-title lang="en">Best Arabic results in CAF CL</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220423011500 +0200" stop="20220423015900 +0200" channel="beINSports3En.qa">
+    <title lang="en">Esperance (TUN) vs ES Setif (ALG)</title>
+    <sub-title lang="en">CAF Champion's League. Quarter Final Leg 2. 2022</sub-title>
+    <category lang="en">CAF Champions league</category>
+  <desc/></programme>
+<programme start="20220419020200 +0200" stop="20220419023000 +0200" channel="beINSports4En.qa">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419023000 +0200" stop="20220419041500 +0200" channel="beINSports4En.qa">
+    <title lang="en">River Plate (ARG) vs Fortaleza (BRA)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220419041500 +0200" stop="20220419060000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Corinthians (BRA) vs Deportivo Cali (COL)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220419060000 +0200" stop="20220419070000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Euro 2020</title>
+    <sub-title lang="en">Best Goals</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419070000 +0200" stop="20220419085000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Galatasaray V Yenİ Malatyaspor</title>
+    <sub-title lang="en">Turkish Super League 2021/22</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220419085000 +0200" stop="20220419103000 +0200" channel="beINSports4En.qa">
+    <title lang="en">PAU vs Auxerre</title>
+    <sub-title lang="en">French Ligue 2 2021/22</sub-title>
+    <category lang="en">French League - Ligue 2</category>
+  <desc/></programme>
+<programme start="20220419103000 +0200" stop="20220419110000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sporting Countdowns</title>
+    <sub-title lang="en">Rivalries</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419110000 +0200" stop="20220419124500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Nacional (URU) vs Estudientes (ARG)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220419124500 +0200" stop="20220419143400 +0200" channel="beINSports4En.qa">
+    <title lang="en">Atletico Mineiro (BRA) vs América-MG (BRA)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220419153000 +0200" stop="20220419171500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Cerro Porteño (PAR) vs Club Atlético Colon (ARG)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220419171500 +0200" stop="20220419190000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Flamengo (BRA) vs Talleres Cordoba (ARG)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220419190000 +0200" stop="20220419204500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Galatasaray V Yenİ Malatyaspor</title>
+    <sub-title lang="en">Turkish Super League 2021/22</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220419204500 +0200" stop="20220419222700 +0200" channel="beINSports4En.qa">
+    <title lang="en">PAU vs Auxerre</title>
+    <sub-title lang="en">French Ligue 2 2021/22</sub-title>
+    <category lang="en">French League - Ligue 2</category>
+  <desc/></programme>
+<programme start="20220419222700 +0200" stop="20220419225500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Argentina The Champions Of Copa America 2021</title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220419225500 +0200" stop="20220420010000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sochaux vs Toulouse</title>
+    <sub-title lang="en">French Ligue 2 2021/22</sub-title>
+    <category lang="en">French League - Ligue 2</category>
+  <desc/></programme>
+<programme start="20220420010000 +0200" stop="20220420020000 +0200" channel="beINSports4En.qa">
+    <title lang="en">FIFA Arab Cup Qatar 2021 Summary</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420020000 +0200" stop="20220420022600 +0200" channel="beINSports4En.qa">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420022600 +0200" stop="20220420041500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Boca Juniors (ARG) vs Always Ready (BOL)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220420041500 +0200" stop="20220420060000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Palemeiras (BRA) vs Independiente Petrolero (BOL)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220420060000 +0200" stop="20220420070000 +0200" channel="beINSports4En.qa">
+    <title lang="en">FIFA Arab Cup Qatar 2021 Summary</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420070000 +0200" stop="20220420084500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sochaux vs Toulouse</title>
+    <sub-title lang="en">French Ligue 2 2021/22</sub-title>
+    <category lang="en">French League - Ligue 2</category>
+  <desc/></programme>
+<programme start="20220420084500 +0200" stop="20220420103000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Galatasaray V Yenİ Malatyaspor</title>
+    <sub-title lang="en">Turkish Super League 2021/22</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220420103000 +0200" stop="20220420110000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sporting Countdowns</title>
+    <sub-title lang="en">Entertainers</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420110000 +0200" stop="20220420124500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Athletico-PR (BRA) vs The Strongest (BOL)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220420124500 +0200" stop="20220420143000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Velez Sarsfield (ARG) vs Bragatino (BRA)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220420143000 +0200" stop="20220420150000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sports Clinic</title>
+    <sub-title lang="en">Heart injuries, preventions and cures</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420150000 +0200" stop="20220420164500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Pyramids vs TP Mazembe</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220420164500 +0200" stop="20220420170000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 2010</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420170000 +0200" stop="20220420180000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Copa America</title>
+    <sub-title lang="en">Best Goals 2021</sub-title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220420180000 +0200" stop="20220420194500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Galatasaray V Yenİ Malatyaspor</title>
+    <sub-title lang="en">Turkish Super League 2021/22</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220420194500 +0200" stop="20220420213000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sochaux vs Toulouse</title>
+    <sub-title lang="en">French Ligue 2 2021/22</sub-title>
+    <category lang="en">French League - Ligue 2</category>
+  <desc/></programme>
+<programme start="20220420213000 +0200" stop="20220420215500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sports Clinic</title>
+    <sub-title lang="en">Heart injuries, preventions and cures</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420215500 +0200" stop="20220420235500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Bordeaux vs Saint Etienne</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220420235500 +0200" stop="20220421020000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Brest vs Lyon</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421020000 +0200" stop="20220421023000 +0200" channel="beINSports4En.qa">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421023000 +0200" stop="20220421041500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Athletico-PR (BRA) vs The Strongest (BOL)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220421041500 +0200" stop="20220421060000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Velez Sarsfield (ARG) vs Bragatino (BRA)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220421060000 +0200" stop="20220421063000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Argentina The Champions Of Copa America 2021</title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220421063000 +0200" stop="20220421081500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Bordeaux vs Saint Etienne</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421081500 +0200" stop="20220421100000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Brest vs Lyon</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421100000 +0200" stop="20220421103000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sporting Countdowns</title>
+    <sub-title lang="en">Controversies</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421103000 +0200" stop="20220421121500 +0200" channel="beINSports4En.qa">
+    <title lang="en">River Plate (ARG) vs Fortaleza (BRA)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220421121500 +0200" stop="20220421140000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Corinthians (BRA) vs Deportivo Cali (COL)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220421140000 +0200" stop="20220421142700 +0200" channel="beINSports4En.qa">
+    <title lang="en">Behind the Scenes Wael Goma and Haitham Farouk</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421142700 +0200" stop="20220421161600 +0200" channel="beINSports4En.qa">
+    <title lang="en">Boca Juniors (ARG) vs Always Ready (BOL)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220421161600 +0200" stop="20220421180000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Palemeiras (BRA) vs Independiente Petrolero (BOL)</title>
+    <sub-title lang="en">Copa Libertadores 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Libertadores</category>
+  <desc/></programme>
+<programme start="20220421180000 +0200" stop="20220421183000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Football's Greatest</title>
+    <sub-title lang="en">Samuel Eto'o</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421183000 +0200" stop="20220421201500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Deportivo La Guaira (VEN) vs Ceará (BRA)</title>
+    <sub-title lang="en">Copa Sudamericana 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Sudamericana</category>
+  <desc/></programme>
+<programme start="20220421201500 +0200" stop="20220421220000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Independiente (ARG) vs General Caballero JLM (PAR)</title>
+    <sub-title lang="en">Copa Sudamericana 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Sudamericana</category>
+  <desc/></programme>
+<programme start="20220421220000 +0200" stop="20220421223000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Al Ahly vs Raja Casablanca</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220421223000 +0200" stop="20220422001500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Deportivo La Guaira (VEN) vs Ceará (BRA)</title>
+    <sub-title lang="en">Copa Sudamericana 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Sudamericana</category>
+  <desc/></programme>
+<programme start="20220422001500 +0200" stop="20220422020000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Independiente (ARG) vs General Caballero JLM (PAR)</title>
+    <sub-title lang="en">Copa Sudamericana 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Sudamericana</category>
+  <desc/></programme>
+<programme start="20220422020000 +0200" stop="20220422023000 +0200" channel="beINSports4En.qa">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 5</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422023000 +0200" stop="20220422041500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sochaux vs Toulouse</title>
+    <sub-title lang="en">French Ligue 2 2021/22</sub-title>
+    <category lang="en">French League - Ligue 2</category>
+  <desc/></programme>
+<programme start="20220422041500 +0200" stop="20220422060000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Galatasaray V Yenİ Malatyaspor</title>
+    <sub-title lang="en">Turkish Super League 2021/22</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220422060000 +0200" stop="20220422063000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sports Clinic</title>
+    <sub-title lang="en">Heart injuries, preventions and cures</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422063000 +0200" stop="20220422081500 +0200" channel="beINSports4En.qa">
+    <title lang="en">AL Ittihad (LYB) V AL Ahly Tripoli (LYB)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220422081500 +0200" stop="20220422100000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Simba (TAN) V Orlando Pirates (RSA)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220422100000 +0200" stop="20220422103000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sporting Countdowns</title>
+    <sub-title lang="en">Comebacks</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422103000 +0200" stop="20220422121500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Pyramids vs TP Mazembe</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220422121500 +0200" stop="20220422140000 +0200" channel="beINSports4En.qa">
+    <title lang="en">AL Masry (EGY) V RS Berkane (MAR)</title>
+    <sub-title lang="en">CAF Confederations Cup 2022. QUARTER FINAL 1ST LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  <desc/></programme>
+<programme start="20220422140000 +0200" stop="20220422143000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Al Ahly vs Raja Casablanca</title>
+    <sub-title lang="en">Quarter Final 1st Leg. CAF Champions League 2022. Mini Match</sub-title>
+    <category lang="en">Mini Matches</category>
+  <desc/></programme>
+<programme start="20220422143000 +0200" stop="20220422161500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sochaux vs Toulouse</title>
+    <sub-title lang="en">French Ligue 2 2021/22</sub-title>
+    <category lang="en">French League - Ligue 2</category>
+  <desc/></programme>
+<programme start="20220422161500 +0200" stop="20220422180000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Galatasaray V Yenİ Malatyaspor</title>
+    <sub-title lang="en">Turkish Super League 2021/22</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220422180000 +0200" stop="20220422183000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Football's Greatest</title>
+    <sub-title lang="en">Roberto Carlos</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422183000 +0200" stop="20220422201500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Sao Paulo (BRA) vs Everton (CHI)</title>
+    <sub-title lang="en">Copa Sudamericana 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Sudamericana</category>
+  <desc/></programme>
+<programme start="20220422201500 +0200" stop="20220422220000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Internacional (BRA) vs Guaireña (PAR)</title>
+    <sub-title lang="en">Copa Sudamericana 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Sudamericana</category>
+  <desc/></programme>
+<programme start="20220422220000 +0200" stop="20220422223000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Behind the Scenes Wael Goma and Haitham Farouk</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422223000 +0200" stop="20220423001500 +0200" channel="beINSports4En.qa">
+    <title lang="en">Defensa y Justicia (ARG) vs Atlético Goianiense (BRA)</title>
+    <sub-title lang="en">Copa Sudamericana 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Sudamericana</category>
+  <desc/></programme>
+<programme start="20220423001500 +0200" stop="20220423140000 +0200" channel="beINSports4En.qa">
+    <title lang="en">Racing Club (ARG) vs Cuiabá (BRA)</title>
+    <sub-title lang="en">Copa Sudamericana 2022. Group Stage MD2</sub-title>
+    <category lang="en">Copa Sudamericana</category>
+  <desc/></programme>
+<programme start="20220419020000 +0200" stop="20220419040000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Nicolas Alvarez Varona (ESP) vs Brandon Nakashima (USA)</title>
+    <sub-title lang="en">ATP 500. Barcelona Open. BancSabadell 20</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220419040000 +0200" stop="20220419060000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Jaume Munar (ESP) vs Arthur Rinderknech (FRA)</title>
+    <sub-title lang="en">ATP 500. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220419060000 +0200" stop="20220419071800 +0200" channel="beINSports5En.qa">
+    <title lang="en">Bernabé Zapata Miralles (ESP) vs Tommy Robredo (ESP)</title>
+    <sub-title lang="en">ATP 500. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220419071800 +0200" stop="20220419080000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Australian Open 2022-Final Highlights</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419080000 +0200" stop="20220419090000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Roland Garros 2021</title>
+    <sub-title lang="en">Tournament Review</sub-title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220419090000 +0200" stop="20220419110200 +0200" channel="beINSports5En.qa">
+    <title lang="en">Lorenzo Musetti (ITA) vs Sebastian Baez (ARG)</title>
+    <sub-title lang="en">ATP 500. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220419110200 +0200" stop="20220419130000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Nicolas Alvarez Varona (ESP) vs Brandon Nakashima (USA)</title>
+    <sub-title lang="en">ATP 500. Barcelona Open. BancSabadell 20</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220419130000 +0200" stop="20220419133100 +0200" channel="beINSports5En.qa">
+    <title lang="en">Australian Open 2022-Final Highlights</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419133100 +0200" stop="20220419140000 +0200" channel="beINSports5En.qa">
+    <title lang="en">B.Mattek-Sands/I.Swiątek vs B.Krejčíková/Siniaková</title>
+    <sub-title lang="en">Mini Match. Roland Garros 2021</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220419140000 +0200" stop="20220419160000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220419160000 +0200" stop="20220419180000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220419180000 +0200" stop="20220419200000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220419200000 +0200" stop="20220419220000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220419220000 +0200" stop="20220420000000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420000000 +0200" stop="20220420010000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Billie Jean King Cup</title>
+    <sub-title lang="en">Finals Round-Up Highlights</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420010000 +0200" stop="20220420020000 +0200" channel="beINSports5En.qa">
+    <title lang="en">2021 US OPEN Review Show</title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220420020000 +0200" stop="20220420040000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Carlos Taberner (ESP) vs Sebastian Korda (USA)</title>
+    <sub-title lang="en">ATP 500. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420040000 +0200" stop="20220420060000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Feliciano López (ESP) vs Emil Ruusuvuori (FIN)</title>
+    <sub-title lang="en">ATP 500. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420060000 +0200" stop="20220420080000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Brandon Nakashima (USA) vs Casper Ruud (NOR)</title>
+    <sub-title lang="en">ATP 500. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420080000 +0200" stop="20220420100000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Diego Schwartzman (ARG) vs Mackenzie McDonald (USA)</title>
+    <sub-title lang="en">ATP 500. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420100000 +0200" stop="20220420120000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Cameron Norrie (GBR) vs Egor Gerasimov (BLR)</title>
+    <sub-title lang="en">ATP 500. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420120000 +0200" stop="20220420130000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Billie Jean King Cup</title>
+    <sub-title lang="en">Finals Round-Up Highlights</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420130000 +0200" stop="20220420140000 +0200" channel="beINSports5En.qa">
+    <title lang="en">2021 US OPEN Review Show</title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220420140000 +0200" stop="20220420160000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420160000 +0200" stop="20220420180000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420180000 +0200" stop="20220420200000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420200000 +0200" stop="20220420220000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420220000 +0200" stop="20220420223000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Sporting Greats</title>
+    <sub-title lang="en">Mats Wilander</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420223000 +0200" stop="20220420233000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Laver Cup 2021 Review show</title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220420233000 +0200" stop="20220420235500 +0200" channel="beINSports5En.qa">
+    <title lang="en">Untide Tennis 2021</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  <desc/></programme>
+<programme start="20220420235500 +0200" stop="20220421020000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Strasbourg vs Rennais</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421020000 +0200" stop="20220421040000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220421040000 +0200" stop="20220421060000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220421060000 +0200" stop="20220421080000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220421080000 +0200" stop="20220421100000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220421100000 +0200" stop="20220421110000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Roland Garros 2021</title>
+    <sub-title lang="en">Tournament Review</sub-title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220421110000 +0200" stop="20220421130000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220421130000 +0200" stop="20220421140000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Billie Jean King Cup Best Of 2020/2021</title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220421140000 +0200" stop="20220421160000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220421160000 +0200" stop="20220421180000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220421180000 +0200" stop="20220421200000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220421200000 +0200" stop="20220421220000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220421220000 +0200" stop="20220421223000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Sporting Greats</title>
+    <sub-title lang="en">Ivan Lendl</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421223000 +0200" stop="20220421233000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP Paris Masters 2021 Tournament Review Show</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421233000 +0200" stop="20220422000000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Untide Tennis 2021 Ep. 2</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422000000 +0200" stop="20220422020000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220422020000 +0200" stop="20220422040000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220422040000 +0200" stop="20220422060000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220422060000 +0200" stop="20220422080000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220422080000 +0200" stop="20220422090000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Billie Jean King Cup Best Of 2020/2021</title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220422090000 +0200" stop="20220422093000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Sporting Greats</title>
+    <sub-title lang="en">Ivan Lendl</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422093000 +0200" stop="20220422113000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220422113000 +0200" stop="20220422133000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220422133000 +0200" stop="20220422143000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Billie Jean King Cup</title>
+    <sub-title lang="en">Finals Round-Up Highlights</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220422143000 +0200" stop="20220422153000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Roland Garros 2021</title>
+    <sub-title lang="en">Tournament Review</sub-title>
+    <category lang="en">Leagues Summary</category>
+  <desc/></programme>
+<programme start="20220422153000 +0200" stop="20220422173000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">QF1. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220422173000 +0200" stop="20220422193000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">QF2. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220422193000 +0200" stop="20220422213000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">QF3. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220422213000 +0200" stop="20220422233000 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">QF4. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220422233000 +0200" stop="20220423000000 +0200" channel="beINSports5En.qa">
+    <title lang="en">Australian Open 2022-Final Highlights</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220423000000 +0200" stop="20220423015900 +0200" channel="beINSports5En.qa">
+    <title lang="en">ATP 500</title>
+    <sub-title lang="en">QF1. Barcelona Open. BancSabadell 2022</sub-title>
+    <category lang="en">Tennis</category>
+  <desc/></programme>
+<programme start="20220419020000 +0200" stop="20220419040500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Finals</title>
+    <sub-title lang="en">Day 1. International Swimming league 2021</sub-title>
+    <category lang="en">Swimming</category>
+  <desc/></programme>
+<programme start="20220419040500 +0200" stop="20220419061000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Finals</title>
+    <sub-title lang="en">Day 2. International Swimming league 2021</sub-title>
+    <category lang="en">Swimming</category>
+  <desc/></programme>
+<programme start="20220419061000 +0200" stop="20220419071200 +0200" channel="beINSports6En.qa">
+    <title lang="en">Race Moto 2</title>
+    <sub-title lang="en">Moto GP 2022 Grand Prix of the Americas</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220419071200 +0200" stop="20220419081500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Race Moto GP</title>
+    <sub-title lang="en">Moto GP 2022 Grand Prix of the Americas</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220419081500 +0200" stop="20220419091700 +0200" channel="beINSports6En.qa">
+    <title lang="en">Race Moto 3</title>
+    <sub-title lang="en">Moto GP 2022 Grand Prix of the Americas</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220419091700 +0200" stop="20220419101000 +0200" channel="beINSports6En.qa">
+    <title lang="en">SBK</title>
+    <sub-title lang="en">Aragon Round. Race 1</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220419101000 +0200" stop="20220419110500 +0200" channel="beINSports6En.qa">
+    <title lang="en">SBK</title>
+    <sub-title lang="en">Aragon Round. Race 2</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220419110500 +0200" stop="20220419124500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Brazil vs Finland</title>
+    <sub-title lang="en">Tournoi de France 2022. Women's International</sub-title>
+    <category lang="en">Basketball - Friendly Match</category>
+  <desc/></programme>
+<programme start="20220419124500 +0200" stop="20220419142400 +0200" channel="beINSports6En.qa">
+    <title lang="en">France vs Netherlands</title>
+    <sub-title lang="en">Tournoi de France 2022. Women's International</sub-title>
+    <category lang="en">Basketball - Friendly Match</category>
+  <desc/></programme>
+<programme start="20220419142400 +0200" stop="20220419163500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Francisco Navarro (ESP) Martín Di Nenno (ARG) vs Juan Lebron (ESP) Alejandro Galan (ESP)</title>
+    <sub-title lang="en">Final. Oo</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419163500 +0200" stop="20220419175400 +0200" channel="beINSports6En.qa">
+    <title lang="en">Switzerland vs Senegal</title>
+    <sub-title lang="en">FIFA Beach Soccer World Cup Russia 2021. Third Place</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220419175400 +0200" stop="20220419193300 +0200" channel="beINSports6En.qa">
+    <title lang="en">Russian Football Union vs Japan</title>
+    <sub-title lang="en">FIFA Beach Soccer World Cup Russia 2021. Final's</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220419193300 +0200" stop="20220419203000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Impossible is not in their dictionary</title>
+    <sub-title lang="en">part 2</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419203000 +0200" stop="20220419224500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Arena Games Triathlon</title>
+    <sub-title lang="en">Munich 2022</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220419224500 +0200" stop="20220420003000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Brazil vs Finland</title>
+    <sub-title lang="en">Tournoi de France 2022. Women's International</sub-title>
+    <category lang="en">Basketball - Friendly Match</category>
+  <desc/></programme>
+<programme start="20220420003000 +0200" stop="20220420020000 +0200" channel="beINSports6En.qa">
+    <title lang="en">France vs Netherlands</title>
+    <sub-title lang="en">Tournoi de France 2022. Women's International</sub-title>
+    <category lang="en">Basketball - Friendly Match</category>
+  <desc/></programme>
+<programme start="20220420020000 +0200" stop="20220420030800 +0200" channel="beINSports6En.qa">
+    <title lang="en">Moto GP 2022 Qatar GP</title>
+    <sub-title lang="en">Qatar GP. Moto3</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220420030800 +0200" stop="20220420041500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Moto GP 2022 Qatar GP</title>
+    <sub-title lang="en">Qatar GP. Moto2</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220420041500 +0200" stop="20220420053000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Moto3</title>
+    <sub-title lang="en">Moto GP 2022 Indonesian GP</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220420053000 +0200" stop="20220420080000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Minnesota Timberwolves vs Memphis Grizzlies</title>
+    <sub-title lang="en">NBA Play-Offs 2021/2022</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  <desc/></programme>
+<programme start="20220420080000 +0200" stop="20220420090000 +0200" channel="beINSports6En.qa">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">Moto GP 2022 Indonesian GP</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220420090000 +0200" stop="20220420100000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Argentine GP</title>
+    <sub-title lang="en">Moto3. Moto GP 2022. Argentine GP</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220420100000 +0200" stop="20220420110000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Argentine GP</title>
+    <sub-title lang="en">Moto2. Moto GP 2022. Argentine GP</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220420110000 +0200" stop="20220420121500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Argentine GP</title>
+    <sub-title lang="en">Moto GP 2022. Argentine GP</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220420121500 +0200" stop="20220420130000 +0200" channel="beINSports6En.qa">
+    <title lang="en">DTM Magazine</title>
+    <sub-title lang="en">Season Review 2021</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420130000 +0200" stop="20220420140500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Race Moto 2</title>
+    <sub-title lang="en">Moto GP 2022 Grand Prix of the Americas</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220420140500 +0200" stop="20220420151000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Race Moto GP</title>
+    <sub-title lang="en">Moto GP 2022 Grand Prix of the Americas</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220420151000 +0200" stop="20220420161500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Race Moto 3</title>
+    <sub-title lang="en">Moto GP 2022 Grand Prix of the Americas</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220420161500 +0200" stop="20220420182000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Finals</title>
+    <sub-title lang="en">Day 1. International Swimming league 2021</sub-title>
+    <category lang="en">Swimming</category>
+  <desc/></programme>
+<programme start="20220420182000 +0200" stop="20220420202500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Finals</title>
+    <sub-title lang="en">Day 2. International Swimming league 2021</sub-title>
+    <category lang="en">Swimming</category>
+  <desc/></programme>
+<programme start="20220420202500 +0200" stop="20220420211500 +0200" channel="beINSports6En.qa">
+    <title lang="en">DTM Magazine</title>
+    <sub-title lang="en">Season Review 2021</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420211500 +0200" stop="20220420215500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Football's Greatest</title>
+    <sub-title lang="en">Marcel Desailly</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420215500 +0200" stop="20220420235500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Monaco vs Nice</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220420235500 +0200" stop="20220421020000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Lens vs Montpellier</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421020000 +0200" stop="20220421034500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Russia vs Switzerland</title>
+    <sub-title lang="en">FIFA Beach Soccer World Cup Russia 2021. Semi Final's</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220421034500 +0200" stop="20220421045000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Japan vs Senegal</title>
+    <sub-title lang="en">FIFA Beach Soccer World Cup Russia 2021. Semi Final's</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220421045000 +0200" stop="20220421070000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Francisco Navarro (ESP) Martín Di Nenno (ARG) vs Juan Lebron (ESP) Alejandro Galan (ESP)</title>
+    <sub-title lang="en">Final. Oo</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421070000 +0200" stop="20220421084500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Monaco vs Nice</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421084500 +0200" stop="20220421103000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Lens vs Montpellier</title>
+    <sub-title lang="en">French Ligue 1 2021/2022. Week 33</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  <desc/></programme>
+<programme start="20220421103000 +0200" stop="20220421130000 +0200" channel="beINSports6En.qa">
+    <title lang="en">24h-Race Nurburgring 2021</title>
+    <sub-title lang="en">Session 1</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220421130000 +0200" stop="20220421153000 +0200" channel="beINSports6En.qa">
+    <title lang="en">24h-Race Nurburgring 2021</title>
+    <sub-title lang="en">Session 2</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220421153000 +0200" stop="20220421180000 +0200" channel="beINSports6En.qa">
+    <title lang="en">24h-Race Nurburgring 2021</title>
+    <sub-title lang="en">Session 3</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220421180000 +0200" stop="20220421203000 +0200" channel="beINSports6En.qa">
+    <title lang="en">24h-Race Nurburgring 2021</title>
+    <sub-title lang="en">Session 4</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220421203000 +0200" stop="20220421214800 +0200" channel="beINSports6En.qa">
+    <title lang="en">Switzerland vs Senegal</title>
+    <sub-title lang="en">FIFA Beach Soccer World Cup Russia 2021. Third Place</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220421214800 +0200" stop="20220421233000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Russian Football Union vs Japan</title>
+    <sub-title lang="en">FIFA Beach Soccer World Cup Russia 2021. Final's</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220421233000 +0200" stop="20220422002700 +0200" channel="beINSports6En.qa">
+    <title lang="en">SBK</title>
+    <sub-title lang="en">Aragon Round. Race 1</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220422002700 +0200" stop="20220422010000 +0200" channel="beINSports6En.qa">
+    <title lang="en">SBK</title>
+    <sub-title lang="en">Aragon Round. SBK-Superpole Race A/E comms</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220422010000 +0200" stop="20220422020000 +0200" channel="beINSports6En.qa">
+    <title lang="en">SBK</title>
+    <sub-title lang="en">Aragon Round. Race 2</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220422020000 +0200" stop="20220422031800 +0200" channel="beINSports6En.qa">
+    <title lang="en">Switzerland vs Senegal</title>
+    <sub-title lang="en">FIFA Beach Soccer World Cup Russia 2021. Third Place</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220422031800 +0200" stop="20220422045500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Russian Football Union vs Japan</title>
+    <sub-title lang="en">FIFA Beach Soccer World Cup Russia 2021. Final's</sub-title>
+    <category lang="en">Football</category>
+  <desc/></programme>
+<programme start="20220422045500 +0200" stop="20220422070000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Arena Games Triathlon</title>
+    <sub-title lang="en">Munich 2022</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422070000 +0200" stop="20220422073000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Fast Zone 2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422073000 +0200" stop="20220422083000 +0200" channel="beINSports6En.qa">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">Moto GP 2022 Indonesian GP</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220422083000 +0200" stop="20220422093500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Argentine GP</title>
+    <sub-title lang="en">Moto GP 2022. Argentine GP</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220422093500 +0200" stop="20220422104500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Race Moto 2</title>
+    <sub-title lang="en">Moto GP 2022 Grand Prix of the Americas</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220422104500 +0200" stop="20220422115000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Race Moto GP</title>
+    <sub-title lang="en">Moto GP 2022 Grand Prix of the Americas</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220422115000 +0200" stop="20220422130000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Race Moto 3</title>
+    <sub-title lang="en">Moto GP 2022 Grand Prix of the Americas</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220422130000 +0200" stop="20220422134500 +0200" channel="beINSports6En.qa">
+    <title lang="en">DTM Magazine</title>
+    <sub-title lang="en">Season Review 2021</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422134500 +0200" stop="20220422144500 +0200" channel="beINSports6En.qa">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">Free Practice 1. Portuguese GP</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220422144500 +0200" stop="20220422151500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Fast Zone 2022</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220422151500 +0200" stop="20220422154500 +0200" channel="beINSports6En.qa">
+    <title lang="en">GP Confidential 2022 vs</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  <desc/></programme>
+<programme start="20220422154500 +0200" stop="20220422165000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Race Moto GP</title>
+    <sub-title lang="en">Moto GP 2022 Grand Prix of the Americas</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220422165000 +0200" stop="20220422180000 +0200" channel="beINSports6En.qa">
+    <title lang="en">Moto GP 2022 Grand Prix of the Americas</title>
+    <sub-title lang="en">Free Practice 1 MotoGP</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220422180000 +0200" stop="20220422190000 +0200" channel="beINSports6En.qa">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">Free Practice 2. Portuguese GP</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220422190000 +0200" stop="20220422200000 +0200" channel="beINSports6En.qa">
+    <title lang="en">SBK</title>
+    <sub-title lang="en">Aragon Round. Race 1</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220422200000 +0200" stop="20220422210000 +0200" channel="beINSports6En.qa">
+    <title lang="en">SBK</title>
+    <sub-title lang="en">Aragon Round. Race 2</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220422210000 +0200" stop="20220422220500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Race Moto 2</title>
+    <sub-title lang="en">Moto GP 2022 Grand Prix of the Americas</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220422220500 +0200" stop="20220422230500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Race Moto GP</title>
+    <sub-title lang="en">Moto GP 2022 Grand Prix of the Americas</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220422230500 +0200" stop="20220423000500 +0200" channel="beINSports6En.qa">
+    <title lang="en">Moto 3</title>
+    <sub-title lang="en">Race. MotoGP. Portuguese GP</sub-title>
+    <category lang="en">Moto GP - World Championship</category>
+  <desc/></programme>
+<programme start="20220423000500 +0200" stop="20220423010000 +0200" channel="beINSports6En.qa">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">Free Practice 1. Portuguese GP</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220423010000 +0200" stop="20220423015900 +0200" channel="beINSports6En.qa">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">Free Practice 2. Portuguese GP</sub-title>
+    <category lang="en">MotorSports</category>
+  <desc/></programme>
+<programme start="20220419023000 +0200" stop="20220419062500 +0200" channel="beINSports7En.qa">
+    <title lang="en">15th FINA World Swimming Championship</title>
+    <sub-title lang="en">Day 1. 25m Heat</sub-title>
+    <category lang="en">Swimming</category>
+  <desc/></programme>
+<programme start="20220419062500 +0200" stop="20220419091000 +0200" channel="beINSports7En.qa">
+    <title lang="en">15th FINA World Swimming Championship</title>
+    <sub-title lang="en">Day 2. 25m Heat</sub-title>
+    <category lang="en">Swimming</category>
+  <desc/></programme>
+<programme start="20220419091000 +0200" stop="20220419113000 +0200" channel="beINSports7En.qa">
+    <title lang="en">15th FINA World Swimming Championship</title>
+    <sub-title lang="en">Day 3. 25m Heat</sub-title>
+    <category lang="en">Swimming</category>
+  <desc/></programme>
+<programme start="20220419113000 +0200" stop="20220419134500 +0200" channel="beINSports7En.qa">
+    <title lang="en">15th FINA World Swimming Championship</title>
+    <sub-title lang="en">Day 4. 25m Heat</sub-title>
+    <category lang="en">Swimming</category>
+  <desc/></programme>
+<programme start="20220419134500 +0200" stop="20220419173000 +0200" channel="beINSports7En.qa">
+    <title lang="en">15th FINA World Swimming Championship</title>
+    <sub-title lang="en">Day 5. 25m Heat</sub-title>
+    <category lang="en">Swimming</category>
+  <desc/></programme>
+<programme start="20220419173000 +0200" stop="20220419190000 +0200" channel="beINSports7En.qa">
+    <title lang="en">15th FINA World Swimming Championship</title>
+    <sub-title lang="en">Day 6. 25m Heat</sub-title>
+    <category lang="en">Swimming</category>
+  <desc/></programme>
+<programme start="20220419190000 +0200" stop="20220419202500 +0200" channel="beINSports7En.qa">
+    <title lang="en">Bronze Medal and Final</title>
+    <sub-title lang="en">HSBC Rugby Sevens 2021/22. Vancouver</sub-title>
+    <category lang="en">Rugby</category>
+  <desc/></programme>
+<programme start="20220419202500 +0200" stop="20220420023000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Paris-Roubaix 2022</title>
+    <sub-title lang="en">Cycling</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220420023000 +0200" stop="20220420030000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Beautiful Japan</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420030000 +0200" stop="20220420044500 +0200" channel="beINSports7En.qa">
+    <title lang="en">SUPER SESSION DAY 1</title>
+    <sub-title lang="en">HSBC Rugby Sevens 2021/22. Vancouver</sub-title>
+    <category lang="en">Rugby</category>
+  <desc/></programme>
+<programme start="20220420044500 +0200" stop="20220420061500 +0200" channel="beINSports7En.qa">
+    <title lang="en">Quarter Finals</title>
+    <sub-title lang="en">HSBC Rugby Sevens 2021/22. Vancouver</sub-title>
+    <category lang="en">Rugby</category>
+  <desc/></programme>
+<programme start="20220420061500 +0200" stop="20220420070000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Semi-Finals</title>
+    <sub-title lang="en">HSBC Rugby Sevens 2021/22. Vancouver</sub-title>
+    <category lang="en">Rugby</category>
+  <desc/></programme>
+<programme start="20220420070000 +0200" stop="20220420080000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Bronze Medal and Final</title>
+    <sub-title lang="en">HSBC Rugby Sevens 2021/22. Vancouver</sub-title>
+    <category lang="en">Rugby</category>
+  <desc/></programme>
+<programme start="20220420080000 +0200" stop="20220420140000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Paris-Roubaix 2022</title>
+    <sub-title lang="en">Cycling</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220420140000 +0200" stop="20220420160000 +0200" channel="beINSports7En.qa">
+    <title lang="en">St Raphael vs Montpellier</title>
+    <sub-title lang="en">Handball French Stars League 2020/21 + 2021/22</sub-title>
+    <category lang="en">Handball - French Handball League</category>
+  <desc/></programme>
+<programme start="20220420160000 +0200" stop="20220420201500 +0200" channel="beINSports7En.qa">
+    <title lang="en">Fleche Wallonne 2022</title>
+    <sub-title lang="en">Men's Race Cycling</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220420201500 +0200" stop="20220420220000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Spain vs France</title>
+    <sub-title lang="en">Handball International Friendly</sub-title>
+    <category lang="en">Handball</category>
+  <desc/></programme>
+<programme start="20220420220000 +0200" stop="20220420230000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Classic Finals Men’s Football Final, Rio 2016</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220420230000 +0200" stop="20220421010000 +0200" channel="beINSports7En.qa">
+    <title lang="en">RC Celta de Vigo vs Getafe CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421010000 +0200" stop="20220421020000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Flag and Family</title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421020000 +0200" stop="20220421030000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Qatar Beach Volleyball</title>
+    <sub-title lang="en">Flying High</sub-title>
+    <category lang="en">Sports General</category>
+  <desc/></programme>
+<programme start="20220421030000 +0200" stop="20220421071500 +0200" channel="beINSports7En.qa">
+    <title lang="en">Fleche Wallonne 2022</title>
+    <sub-title lang="en">Men's Race Cycling</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220421071500 +0200" stop="20220421090000 +0200" channel="beINSports7En.qa">
+    <title lang="en">RC Celta de Vigo vs Getafe CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 33</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  <desc/></programme>
+<programme start="20220421090000 +0200" stop="20220421110700 +0200" channel="beINSports7En.qa">
+    <title lang="en">10km U20 Women and 10km U20 Men</title>
+    <sub-title lang="en">World Athletics Race Walking Team Championship</sub-title>
+    <category lang="en">Athletics</category>
+  <desc/></programme>
+<programme start="20220421110700 +0200" stop="20220421132500 +0200" channel="beINSports7En.qa">
+    <title lang="en">20km Women</title>
+    <sub-title lang="en">World Athletics Race Walking Team Championship</sub-title>
+    <category lang="en">Athletics</category>
+  <desc/></programme>
+<programme start="20220421132500 +0200" stop="20220421165000 +0200" channel="beINSports7En.qa">
+    <title lang="en">35km Men &amp; Women</title>
+    <sub-title lang="en">World Athletics Race Walking Team Championship</sub-title>
+    <category lang="en">Athletics</category>
+  <desc/></programme>
+<programme start="20220421165000 +0200" stop="20220421184500 +0200" channel="beINSports7En.qa">
+    <title lang="en">20km Men</title>
+    <sub-title lang="en">World Athletics Race Walking Team Championship</sub-title>
+    <category lang="en">Athletics</category>
+  <desc/></programme>
+<programme start="20220421184500 +0200" stop="20220422004500 +0200" channel="beINSports7En.qa">
+    <title lang="en">Paris-Roubaix 2022</title>
+    <sub-title lang="en">Cycling</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220422004500 +0200" stop="20220422020000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Spain vs France</title>
+    <sub-title lang="en">Handball International Friendly</sub-title>
+    <category lang="en">Handball</category>
+  <desc/></programme>
+<programme start="20220422020000 +0200" stop="20220422035400 +0200" channel="beINSports7En.qa">
+    <title lang="en">Stage 1 Cycling</title>
+    <sub-title lang="en">2022 PARIS-NICE</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220422035400 +0200" stop="20220422054800 +0200" channel="beINSports7En.qa">
+    <title lang="en">Stage 2 Cycling</title>
+    <sub-title lang="en">2022 PARIS-NICE</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220422054800 +0200" stop="20220422073000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Stage 3 Cycling</title>
+    <sub-title lang="en">2022 PARIS-NICE</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220422073000 +0200" stop="20220422094500 +0200" channel="beINSports7En.qa">
+    <title lang="en">Stage 4 Cycling</title>
+    <sub-title lang="en">2022 PARIS-NICE</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220422094500 +0200" stop="20220422120400 +0200" channel="beINSports7En.qa">
+    <title lang="en">Stage 5 Cycling</title>
+    <sub-title lang="en">2022 PARIS-NICE</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220422120400 +0200" stop="20220422142900 +0200" channel="beINSports7En.qa">
+    <title lang="en">Stage 6 Cycling</title>
+    <sub-title lang="en">2022 PARIS-NICE</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220422142900 +0200" stop="20220422163200 +0200" channel="beINSports7En.qa">
+    <title lang="en">Stage 7 Cycling</title>
+    <sub-title lang="en">2022 PARIS-NICE</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220422163200 +0200" stop="20220422190000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Stage 8 Cycling</title>
+    <sub-title lang="en">2022 PARIS-NICE</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220422190000 +0200" stop="20220422231500 +0200" channel="beINSports7En.qa">
+    <title lang="en">Fleche Wallonne 2022</title>
+    <sub-title lang="en">Men's Race Cycling</sub-title>
+    <category lang="en">Cycling</category>
+  <desc/></programme>
+<programme start="20220422231500 +0200" stop="20220423020000 +0200" channel="beINSports7En.qa">
+    <title lang="en">Athletics</title>
+    <sub-title lang="en">Marathon de Paris. Schneider Electric 2022</sub-title>
+    <category lang="en">Athletics</category>
+  <desc/></programme>
+</tv>
